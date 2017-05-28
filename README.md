@@ -1,2 +1,2 @@
 # Pong
-Pong created in JavaScript (www.kianacaster.github.io/Pong/index.html)
+Pong created in JavaScript (https://kianacaster.github.io/Pong/index.html)
